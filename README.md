@@ -14,14 +14,7 @@ This is a simple **Weather Forecast Application** built with **React.js**. It us
 
 ---
 
-## 🚀 Demo
-
-![App Screenshot](https://via.placeholder.com/600x300?text=Weather+App+Preview)
-
-> You can try the live version here:  
-> **[Live Demo](#)** (link after deploying to Vercel or Netlify)
-
----
+##
 
 ## 🛠️ Tech Stack
 
